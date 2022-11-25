@@ -1,5 +1,3 @@
-## juicy-g
-
 Currently programming as a hobby with the aim of turning it into a second career eventually. I am mostly doing front-end web projects.
 
 ### Languages, frameworks and technologies I am using:
